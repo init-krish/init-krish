@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi, I'm Krishnan
 
-<!--
-**init-krish/init-krish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech CSE @ IILM · Noida
 
-Here are some ideas to get you started:
+I build **local tools** I actually use, then ship the parts that help others.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**always more to learn · ship anyway**
+
+---
+
+**[CommentGuard](https://github.com/init-krish/commentguard)** — self-hosted comment moderation  
+FastAPI · Chrome extension · [`commentguard-sdk`](https://www.npmjs.com/package/commentguard-sdk) on npm  
+Pretrained (swappable) model · anti-evasion preprocess · Perspective-compatible API path
+
+**Kynvox** (`dev.kynvox.app`) — local-first desktop builder OS for students/indie devs  
+Tauri/Rust · SQLite · MCP for Cursor/agents · pre–V1 (private until Store)
+
+Open to part-time **LLM evaluation** work (ranking outputs, tool-call mistakes, short rationales).
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnan-madhuratnam-0181653a2/)
