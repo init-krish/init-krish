@@ -18,5 +18,5 @@ Tauri/Rust · SQLite · MCP for Cursor/agents · pre–V1 (private until Store)
 Open to part-time **LLM evaluation** work (ranking outputs, tool-call mistakes, short rationales).
 
 ---
-
+**[LLM eval samples](https://gist.github.com/init-krish/c03f32b29555e0785ba5239bfb05eb55)** — SxS rankings (format, tool calls, factuality)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishnan-madhuratnam-0181653a2/)
