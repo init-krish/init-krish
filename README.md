@@ -1,6 +1,6 @@
 ### Hi, I'm Krishnan
 
-B.Tech CSE @ IILM · Noida
+B.Tech CSE 
 
 I build **local tools** I actually use, then ship the parts that help others.
 
