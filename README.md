@@ -12,7 +12,7 @@ I build **local tools** I actually use, then ship the parts that help others.
 FastAPI · Chrome extension · [`commentguard-sdk`](https://www.npmjs.com/package/commentguard-sdk) on npm  
 Pretrained (swappable) model · anti-evasion preprocess · Perspective-compatible API path
 
-**Kynvox** (`dev.kynvox.app`) — local-first desktop builder OS for students/indie devs  
+**Kynvox** (`kynvox.in`) — local-first desktop builder OS for students/indie devs  
 Tauri/Rust · SQLite · MCP for Cursor/agents · pre–V1 (private until Store)
 
 Open to part-time **LLM evaluation** work (ranking outputs, tool-call mistakes, short rationales).
